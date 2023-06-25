@@ -38,7 +38,7 @@ document.querySelector('#app').innerHTML = `
         <div class='col-md-6 text-white d-flex flex-column align-items-start justify-content-around' style='height: 80vh;'>
           <span class='fs-4'>Web developer</span>
       
-          <h1 class='mt-auto display-1'><b>Juan Herrera W.</b></h1>
+          <h1 class='mt-auto display-3'><b>Juan Herrera W.</b></h1>
 
           <p class='fs-4'>Diseñador y desarrollador <br class='gap_md' /> web, Full Stack!</p>
 
