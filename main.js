@@ -21,7 +21,7 @@ document.querySelector('#app').innerHTML = `
   </nav>
 
   <section class='hero pt-5'> 
-    <img src=${bg_hero} width='100%' heigth='100%'/>
+    <img src="" width='100%' heigth='100%'/>
 
     <div class='container'>
       <div class='row position-relative'>
@@ -85,7 +85,7 @@ document.querySelector('#app').innerHTML = `
 
         <div class='col-md-5'>
           
-          <img src='${about_me}' width='100%' height='100%'/>
+          <img src='' width='100%' height='100%'/>
           
         </div>
       </div>
@@ -105,7 +105,7 @@ document.querySelector('#app').innerHTML = `
       <div class='col-md-6 d-flex flex-column align-items-end gap-5'>
         
         <div class='d-flex flex-column flex-md-row align-items-center gap-3' style='width: 100%; max-width: 28rem;'>
-          <img src=${responsive_img} width='90px' height='70px' />
+          <img src='' width='90px' height='70px' />
           <div>
             <h1 class='fs-4'>Responsive design</h1>
             <p style='font-size: .75rem; text-align: justify;'>
@@ -120,7 +120,7 @@ document.querySelector('#app').innerHTML = `
         </div>
 
         <div class='d-flex flex-column flex-md-row align-items-center gap-3' style='width: 100%; max-width: 28rem;'>
-          <img src=${administracion_img} width='90px' height='70px' />          
+          <img src='' width='90px' height='70px' />          
           <div>
             <h1 class='fs-4'>Administración Web</h1>
             <p style='font-size: .75rem; text-align: justify;''>
@@ -135,7 +135,7 @@ document.querySelector('#app').innerHTML = `
         </div>
 
         <div class='d-flex flex-column flex-md-row align-items-center gap-3' style='width: 100%; max-width: 28rem;'>
-          <img src=${posicionamiento_img} width='90px' height='70px' />
+          <img src='' width='90px' height='70px' />
           <div>
             <h1 class='fs-4'>SEO, SEM en Google</h1>
             <p style='font-size: .75rem; text-align: justify;''>
