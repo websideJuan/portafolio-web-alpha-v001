@@ -1,5 +1,4 @@
-import './node_modules/bootstrap/dist/css/bootstrap.min.css'
-import './style.css'
+
 import bg_hero from './src/assets/hero_bacground.png'
 import about_me from './src/assets/about_me.png'
 import responsive_img from './src/assets/responsive_design.png'
