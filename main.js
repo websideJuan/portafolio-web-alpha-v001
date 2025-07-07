@@ -1,12 +1,4 @@
 
-import bg_hero from './src/assets/hero_bacground.png'
-import about_me from './src/assets/about_me.png'
-import responsive_img from './src/assets/responsive_design.png'
-import posicionamiento_img from './src/assets/posicionamiento.png'
-import administracion_img from './src/assets/administracion_web.png'
-
-
-
 
 document.querySelector('#app').innerHTML = `
 <main>
